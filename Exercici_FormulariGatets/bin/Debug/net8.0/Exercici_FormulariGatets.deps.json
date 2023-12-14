@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercici_FormulariGatets/1.0.0": {
+        "runtime": {
+          "Exercici_FormulariGatets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercici_FormulariGatets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\fiona\source\repos\M09\Exercici_FormulariGatets\Exercici_FormulariGatets\bin\Debug\net8.0\Exercici_FormulariGatets.exe
+C:\Users\fiona\source\repos\M09\Exercici_FormulariGatets\Exercici_FormulariGatets\bin\Debug\net8.0\Exercici_FormulariGatets.deps.json
+C:\Users\fiona\source\repos\M09\Exercici_FormulariGatets\Exercici_FormulariGatets\bin\Debug\net8.0\Exercici_FormulariGatets.runtimeconfig.json
+C:\Users\fiona\source\repos\M09\Exercici_FormulariGatets\Exercici_FormulariGatets\bin\Debug\net8.0\Exercici_FormulariGatets.dll
+C:\Users\fiona\source\repos\M09\Exercici_FormulariGatets\Exercici_FormulariGatets\bin\Debug\net8.0\Exercici_FormulariGatets.pdb
+C:\Users\fiona\source\repos\M09\Exercici_FormulariGatets\Exercici_FormulariGatets\obj\Debug\net8.0\Exercici_FormulariGatets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiona\source\repos\M09\Exercici_FormulariGatets\Exercici_FormulariGatets\obj\Debug\net8.0\Exercici_FormulariGatets.AssemblyInfoInputs.cache
+C:\Users\fiona\source\repos\M09\Exercici_FormulariGatets\Exercici_FormulariGatets\obj\Debug\net8.0\Exercici_FormulariGatets.AssemblyInfo.cs
+C:\Users\fiona\source\repos\M09\Exercici_FormulariGatets\Exercici_FormulariGatets\obj\Debug\net8.0\Exercici_FormulariGatets.csproj.CoreCompileInputs.cache
+C:\Users\fiona\source\repos\M09\Exercici_FormulariGatets\Exercici_FormulariGatets\obj\Debug\net8.0\Exercici_FormulariGatets.sourcelink.json
+C:\Users\fiona\source\repos\M09\Exercici_FormulariGatets\Exercici_FormulariGatets\obj\Debug\net8.0\Exercici_FormulariGatets.dll
+C:\Users\fiona\source\repos\M09\Exercici_FormulariGatets\Exercici_FormulariGatets\obj\Debug\net8.0\refint\Exercici_FormulariGatets.dll
+C:\Users\fiona\source\repos\M09\Exercici_FormulariGatets\Exercici_FormulariGatets\obj\Debug\net8.0\Exercici_FormulariGatets.pdb
+C:\Users\fiona\source\repos\M09\Exercici_FormulariGatets\Exercici_FormulariGatets\obj\Debug\net8.0\Exercici_FormulariGatets.genruntimeconfig.cache
+C:\Users\fiona\source\repos\M09\Exercici_FormulariGatets\Exercici_FormulariGatets\obj\Debug\net8.0\ref\Exercici_FormulariGatets.dll
